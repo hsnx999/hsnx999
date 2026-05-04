@@ -39,7 +39,7 @@
 
 ## 🔨 Now Building
 
-### [`neural-net-from-scratch`](https://github.com/hassan/neural-net-from-scratch) &nbsp; ![WIP](https://img.shields.io/badge/in_progress-FAEEDA?style=flat&logoColor=854F0B)
+### [`neural-net-from-scratch`](https://github.com/hsnx999/neural-net-from-scratch) &nbsp; ![WIP](https://img.shields.io/badge/in_progress-FAEEDA?style=flat&logoColor=854F0B)
 
 Implementing a feedforward neural network using only NumPy — no PyTorch, no shortcuts. Backprop, gradient descent, the works.
 
@@ -47,7 +47,7 @@ Implementing a feedforward neural network using only NumPy — no PyTorch, no sh
 
 ---
 
-### [`llm-paper-digest`](https://github.com/hassan/llm-paper-digest) &nbsp; ![Planned](https://img.shields.io/badge/planned-EEEDFE?style=flat&logoColor=534AB7)
+### [`llm-paper-digest`](https://github.com/hsnx999/llm-paper-digest) &nbsp; ![Planned](https://img.shields.io/badge/planned-EEEDFE?style=flat&logoColor=534AB7)
 
 Weekly summaries of top ArXiv papers, automated with LangChain + a Streamlit dashboard. For humans who don't have time to read 40 papers.
 
