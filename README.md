@@ -1,7 +1,7 @@
 <!-- Header -->
-<h1 align="center">Hassan Muhammad Sharif</h1>
+<h1 align="center">Hassan</h1>
 <p align="center">
-  <em>Building toward AI Engineering &nbsp;·&nbsp; <code>20+ hrs/week</code></em>
+  <em>AI Engineer in the making &nbsp;·&nbsp; I build things to understand them</em>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 ---
 
-## 🎯 Focus Areas
+## 🎯 Interests
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-EEEDFE?style=flat&logoColor=534AB7)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-E6F1FB?style=flat&logoColor=185FA5)
@@ -39,59 +39,56 @@
 
 ## 🔨 Now Building
 
-### [`neural-net-from-scratch`](https://github.com/hsnx999/neural-net-from-scratch) &nbsp; ![WIP](https://img.shields.io/badge/in_progress-FAEEDA?style=flat&logoColor=854F0B)
+### [`neural-net-from-scratch`](https://github.com/hassan/neural-net-from-scratch) &nbsp; ![WIP](https://img.shields.io/badge/in_progress-FAEEDA?style=flat&logoColor=854F0B)
 
-Implementing a feedforward neural network using only NumPy — no PyTorch, no shortcuts. Backprop, gradient descent, the works.
+A feedforward neural network implemented in pure NumPy. Motivated by a simple question: do I actually understand what PyTorch is doing under the hood?
 
-`numpy` &nbsp; `math` &nbsp; `matplotlib`
+`numpy` &nbsp; `matplotlib`
 
 ---
 
-### [`llm-paper-digest`](https://github.com/hsnx999/llm-paper-digest) &nbsp; ![Planned](https://img.shields.io/badge/planned-EEEDFE?style=flat&logoColor=534AB7)
+### [`llm-paper-digest`](https://github.com/hassan/llm-paper-digest) &nbsp; ![Planned](https://img.shields.io/badge/planned-EEEDFE?style=flat&logoColor=534AB7)
 
-Weekly summaries of top ArXiv papers, automated with LangChain + a Streamlit dashboard. For humans who don't have time to read 40 papers.
+Automated pipeline that surfaces, summarises, and ranks top ArXiv AI papers each week — built for researchers who need signal, not noise.
 
 `langchain` &nbsp; `streamlit` &nbsp; `openai`
 
 ---
 
-## 🧠 Concepts Mastered
+## 🧠 Concepts I've Gone Deep On
 
-> Honest progress tracking — updated as I go. Percentages reflect depth, not just exposure.
+> I read the papers, not just the blog posts.
 
-| Concept | Progress |
+| Area | What I've covered |
 |---|---|
-| Linear Algebra | `████████░░` 80% |
-| Probability & Stats | `███████░░░` 70% |
-| Calculus / Autodiff | `██████░░░░` 65% |
-| ML Fundamentals | `█████░░░░░` 50% |
-| Neural Networks | `████░░░░░░` 40% |
-| Transformers / LLMs | `██░░░░░░░░` 20% |
+| **Linear Algebra** | Vectors, matrix ops, eigendecomposition, SVD — implemented from scratch in NumPy |
+| **Calculus & Autodiff** | Chain rule, Jacobians, computational graphs, manual backprop |
+| **Probability & Stats** | Distributions, MLE, Bayesian reasoning, information theory basics |
+| **Optimization** | SGD, momentum, Adam — derived and implemented |
+| **Neural Networks** | Forward pass, backprop, activations, regularisation (dropout, batch norm) |
+| **Transformers** | Self-attention mechanism, positional encoding, architecture walkthrough |
 
 ---
 
 ## 📄 Papers Read
 
-> Reading primary sources, not just tutorials.
+> Primary sources over summaries, always.
 
 **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)** — Vaswani et al., 2017
-> The Transformer architecture that powers every modern LLM.
-> Key insight: self-attention replaces recurrence entirely.
+> Key insight: self-attention as a general-purpose sequence modelling primitive — recurrence is a constraint, not a necessity.
 
 ---
 
 **[Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/v15/srivastava14a.html)** — Srivastava et al., 2014
-> Random deactivation as an implicit ensemble method.
-> Key insight: forces the network to learn redundant representations.
+> Key insight: stochastic regularisation as implicit ensemble averaging over exponentially many sub-networks.
 
 ---
 
 **[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)** — He et al., 2015
-> ResNets and why skipping layers actually works.
-> Key insight: residual connections let gradients flow through very deep networks.
+> Key insight: residual connections reframe learning as optimising a residual function — trivially easier when the answer is near identity.
 
 ---
 
 <p align="center">
-  <code>// open to internships · collaborations · feedback</code>
+  <code>// collaborations · research · internships · let's build something</code>
 </p>
