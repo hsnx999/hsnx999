@@ -39,15 +39,15 @@
 
 ## 🔨 Now Building
 
-### [`neural-net-from-scratch`](https://github.com/hassan/neural-net-from-scratch) &nbsp; ![WIP](https://img.shields.io/badge/in_progress-FAEEDA?style=flat&logoColor=854F0B)
+### [`multi-agent-analyst`](https://github.com/hsnx999/multi-agent-analyst) &nbsp; ![WIP](https://img.shields.io/badge/in_progress-FAEEDA?style=flat&logoColor=854F0B)
 
-A feedforward neural network implemented in pure NumPy. Motivated by a simple question: do I actually understand what PyTorch is doing under the hood?
+A collaborative multi-agent system where a Planner, Researcher, and Critic agent work in concert to produce structured analytical reports on any topic. Each agent has a distinct role and memory — they debate, not just relay.
 
-`numpy` &nbsp; `matplotlib`
+`langgraph` &nbsp; `langchain` &nbsp; `openai` &nbsp; `streamlit`
 
 ---
 
-### [`llm-paper-digest`](https://github.com/hassan/llm-paper-digest) &nbsp; ![Planned](https://img.shields.io/badge/planned-EEEDFE?style=flat&logoColor=534AB7)
+### [`llm-paper-digest`](https://github.com/hsnx999/llm-paper-digest) &nbsp; ![Planned](https://img.shields.io/badge/planned-EEEDFE?style=flat&logoColor=534AB7)
 
 Automated pipeline that surfaces, summarises, and ranks top ArXiv AI papers each week — built for researchers who need signal, not noise.
 
