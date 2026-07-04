@@ -1,86 +1,116 @@
-<!-- Header -->
-<h1 align="center">Hassan</h1>
-<p align="center">
-  <em>AI Engineer in the making &nbsp;·&nbsp; I build things to understand them</em>
+<div align="center">
+
+# Hi, I'm Hassan 👋
+
+**MERN + AI Engineer** — full-stack with a deep-learning edge
+
+Based in Lahore, Pakistan · Open to freelance & full-time work
+
+<p>
+  <a href="https://your-portfolio-url.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://upwork.com"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
 </p>
 
----
+</div>
 
-<!-- Animated typing -->
+<br />
+
+## About
+
+I'm a full-stack engineer who likes building products where AI does real work, not just powers a chatbot bolted onto the side. Over the past year I shipped eight production applications on the MERN stack, each one built around a different AI pattern: RAG retrieval, semantic matching, document vision extraction, real-time streaming, and proactive insight generation.
+
+I write LLM calls directly against the API with no SDK wrapper, which keeps the code portable and easy to swap providers. Equally comfortable in Python and FastAPI when a project calls for it.
+
+## Currently
+
+- 👀 Open to full-time roles as a MERN + AI Engineer
+- 🌱 Learning how to build **multi-agent systems**, agents that collaborate with each other
+
+<br />
+
+## Featured Projects
+
+Eight applications, eight different AI integration patterns. Full write-ups, architecture notes, and live demos are on my [portfolio site](https://your-portfolio-url.vercel.app).
+
+| Project | What it does | AI Pattern | Stack |
+|---|---|---|---|
+| **[Marginalia](https://marginalia.hams69.workers.dev)** | Course reader where the AI tutor only answers from the lesson text, with citations back to source | RAG + Vector Retrieval | React · Node · MongoDB |
+| **Aperture** | Upload a spreadsheet, ask questions in plain English, get answers and auto-generated charts | Structured Data Extraction | React · Node · MongoDB |
+| **Meridian** | Marketing dashboard that surfaces AI insight cards on its own, without being asked | Proactive Insight Engine | React · Node · MongoDB |
+| **Harbor** | Project marketplace where AI matches briefs to freelancers by meaning, not keyword overlap | Semantic Embedding Match | React · Node · MongoDB |
+| **Clearway** | Patient intake form with an AI assistant that reviews each section as you fill it in | Inline Form Validation | React · Node · MongoDB |
+| **Vouch** | Vendor onboarding portal, upload a document and AI fills in the form for you | Document Vision Extraction | React · Node · MongoDB |
+| **Beacon** | Open-source React component library for AI chat interfaces, published to npm | SSE Streaming Architecture | React · Node · npm |
+| **Relay** | Paste content once, get 11 AI-generated outputs across social, newsletter, and SEO | Parallel Structured Generation | React · Node · MongoDB |
+
+Also on GitHub: **DocChat**, a RAG chatbot with hybrid BM25 + vector retrieval, cross-encoder reranking, and RAGAS evaluation, plus a full-stack **AI customer support agent** built on a LangGraph state machine with FastAPI and SSE streaming.
+
+<br />
+
+## Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**AI / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D4A574?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
+
+**Tools & Deployment**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+<br />
+
+## GitHub Stats
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1200&color=3B6D11&center=true&vCenter=true&width=500&lines=python+-c+%22import+curiosity%3B+learn(AI)%22;git+commit+-m+%22built+something+cool+today%22;pip+install+numpy+torch+transformers" alt="Typing SVG" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hsnx999&show_icons=true&count_private=true&hide_border=true&title_color=0A0A0A&text_color=3F3F46&icon_color=2563EB&bg_color=FFFFFF" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsnx999&layout=compact&hide_border=true&title_color=0A0A0A&text_color=3F3F46&bg_color=FFFFFF" height="165" alt="Top languages" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsnx999&hide_border=true&background=FFFFFF&stroke=E4E4E7&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" height="165" alt="Streak stats" />
+</p>
 
-## 🛠 Stack
+<br />
 
-![Python](https://img.shields.io/badge/Python-EAF3DE?style=flat&logo=python&logoColor=3B6D11)
-![PyTorch](https://img.shields.io/badge/PyTorch-E6F1FB?style=flat&logo=pytorch&logoColor=185FA5)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FAEEDA?style=flat&logo=huggingface&logoColor=854F0B)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-E1F5EE?style=flat&logo=scikit-learn&logoColor=0F6E56)
-![NumPy](https://img.shields.io/badge/NumPy-FAEEDA?style=flat&logo=numpy&logoColor=854F0B)
-![LangChain](https://img.shields.io/badge/LangChain-EAF3DE?style=flat&logoColor=3B6D11)
-![Streamlit](https://img.shields.io/badge/Streamlit-E6F1FB?style=flat&logo=streamlit&logoColor=185FA5)
-![W&B](https://img.shields.io/badge/Weights_%26_Biases-F1EFE8?style=flat&logo=weightsandbiases&logoColor=5F5E5A)
+## Let's Connect
 
----
-
-## 🎯 Interests
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-EEEDFE?style=flat&logoColor=534AB7)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-E6F1FB?style=flat&logoColor=185FA5)
-![NLP & LLMs](https://img.shields.io/badge/NLP_%26_LLMs-E1F5EE?style=flat&logoColor=0F6E56)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-EAF3DE?style=flat&logoColor=3B6D11)
-
----
-
-## 🔨 Now Building
-
-### [`llm-paper-digest`](https://github.com/hsnx999/llm-paper-digest) &nbsp; ![WIP](https://img.shields.io/badge/in_progress-FAEEDA?style=flat&logoColor=854F0B)
-
-Automated pipeline that surfaces, summarises, and ranks top ArXiv AI papers each week — built for researchers who need signal, not noise.
-
-`langchain` &nbsp; `streamlit` &nbsp; `openai`
-
----
-
-## 🧠 Concepts I've Gone Deep On
-
-> I read the papers, not just the blog posts.
-
-| Area | What I've covered |
-|---|---|
-| **Linear Algebra** | Vectors, matrix ops, eigendecomposition, SVD — implemented from scratch in NumPy |
-| **Calculus & Autodiff** | Chain rule, Jacobians, computational graphs, manual backprop |
-| **Probability & Stats** | Distributions, MLE, Bayesian reasoning, information theory basics |
-| **Optimization** | SGD, momentum, Adam — derived and implemented |
-| **Neural Networks** | Forward pass, backprop, activations, regularisation (dropout, batch norm) |
-| **Transformers** | Self-attention mechanism, positional encoding, architecture walkthrough |
-
----
-
-## 📄 Papers Read
-
-> Primary sources over summaries, always.
-
-**[Attention Is All You Need](https://arxiv.org/abs/1706.03762)** — Vaswani et al., 2017
-> Key insight: self-attention as a general-purpose sequence modelling primitive — recurrence is a constraint, not a necessity.
-
----
-
-**[Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/v15/srivastava14a.html)** — Srivastava et al., 2014
-> Key insight: stochastic regularisation as implicit ensemble averaging over exponentially many sub-networks.
-
----
-
-**[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)** — He et al., 2015
-> Key insight: residual connections reframe learning as optimising a residual function — trivially easier when the answer is near identity.
-
----
+I'm actively looking for freelance projects and full-time opportunities. If you're building something that needs a full-stack engineer who thinks about AI as architecture, not just prompt engineering, reach out.
 
 <p align="center">
-  <code>// collaborations · research · internships · let's build something</code>
+  <a href="mailto:your@email.com">Email</a> ·
+  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> ·
+  <a href="https://upwork.com">Upwork</a> ·
+  <a href="https://your-portfolio-url.vercel.app">Portfolio</a>
 </p>
+
+</div>
