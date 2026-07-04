@@ -7,10 +7,8 @@
 Based in Lahore, Pakistan · Open to freelance & full-time work
 
 <p>
-  <a href="https://your-portfolio-url.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://upwork.com"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <a href="https://portfolio.hsnx999.workers.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:hassansharif369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
@@ -32,18 +30,18 @@ I write LLM calls directly against the API with no SDK wrapper, which keeps the 
 
 ## Featured Projects
 
-Eight applications, eight different AI integration patterns. Full write-ups, architecture notes, and live demos are on my [portfolio site](https://your-portfolio-url.vercel.app).
+Eight applications, eight different AI integration patterns. Full write-ups, architecture notes, and live demos are on my [portfolio site](https://portfolio.hsnx999.workers.dev).
 
 | Project | What it does | AI Pattern | Stack |
 |---|---|---|---|
-| **[Marginalia](https://marginalia.hams69.workers.dev)** | Course reader where the AI tutor only answers from the lesson text, with citations back to source | RAG + Vector Retrieval | React · Node · MongoDB |
-| **Aperture** | Upload a spreadsheet, ask questions in plain English, get answers and auto-generated charts | Structured Data Extraction | React · Node · MongoDB |
-| **Meridian** | Marketing dashboard that surfaces AI insight cards on its own, without being asked | Proactive Insight Engine | React · Node · MongoDB |
-| **Harbor** | Project marketplace where AI matches briefs to freelancers by meaning, not keyword overlap | Semantic Embedding Match | React · Node · MongoDB |
-| **Clearway** | Patient intake form with an AI assistant that reviews each section as you fill it in | Inline Form Validation | React · Node · MongoDB |
-| **Vouch** | Vendor onboarding portal, upload a document and AI fills in the form for you | Document Vision Extraction | React · Node · MongoDB |
-| **Beacon** | Open-source React component library for AI chat interfaces, published to npm | SSE Streaming Architecture | React · Node · npm |
-| **Relay** | Paste content once, get 11 AI-generated outputs across social, newsletter, and SEO | Parallel Structured Generation | React · Node · MongoDB |
+| **[Marginalia](https://marginalia.hsnx999.workers.dev)** | Course reader where the AI tutor only answers from the lesson text, with citations back to source | RAG + Vector Retrieval | React · Node · MongoDB |
+| **[Aperture](https://aperture.hsnx999.workers.dev)** | Upload a spreadsheet, ask questions in plain English, get answers and auto-generated charts | Structured Data Extraction | React · Node · MongoDB |
+| **[Meridian](https://meridian.hsnx999.workers.dev)** | Marketing dashboard that surfaces AI insight cards on its own, without being asked | Proactive Insight Engine | React · Node · MongoDB |
+| **[Harbor](https://harbor.hsnx999.workers.dev)** | Project marketplace where AI matches briefs to freelancers by meaning, not keyword overlap | Semantic Embedding Match | React · Node · MongoDB |
+| **[Clearway](https://clearway.hsnx999.workers.dev)** | Patient intake form with an AI assistant that reviews each section as you fill it in | Inline Form Validation | React · Node · MongoDB |
+| **[Vouch](https://vouch.hsnx999.workers.dev)** | Vendor onboarding portal, upload a document and AI fills in the form for you | Document Vision Extraction | React · Node · MongoDB |
+| **[Beacon](https://beacon.hsnx999.workers.dev)** | Open-source React component library for AI chat interfaces, published to npm | SSE Streaming Architecture | React · Node · npm |
+| **[Relay](https://relay.hsnx999.workers.dev)** | Paste content once, get 11 AI-generated outputs across social, newsletter, and SEO | Parallel Structured Generation | React · Node · MongoDB |
 
 Also on GitHub: **DocChat**, a RAG chatbot with hybrid BM25 + vector retrieval, cross-encoder reranking, and RAGAS evaluation, plus a full-stack **AI customer support agent** built on a LangGraph state machine with FastAPI and SSE streaming.
 
@@ -107,10 +105,8 @@ Also on GitHub: **DocChat**, a RAG chatbot with hybrid BM25 + vector retrieval, 
 I'm actively looking for freelance projects and full-time opportunities. If you're building something that needs a full-stack engineer who thinks about AI as architecture, not just prompt engineering, reach out.
 
 <p align="center">
-  <a href="mailto:your@email.com">Email</a> ·
-  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> ·
-  <a href="https://upwork.com">Upwork</a> ·
-  <a href="https://your-portfolio-url.vercel.app">Portfolio</a>
+  <a href="mailto:hassansharif369@gmail.com">Email</a> ·
+  <a href="https://portfolio.hsnx999.workers.dev">Portfolio</a>
 </p>
 
 </div>
